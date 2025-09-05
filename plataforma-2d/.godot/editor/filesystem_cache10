@@ -1,0 +1,26 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757074491
+icon.svg::CompressedTexture2D/CompressedTexture2D::4108564412364491123::1749254035::1749254045::1::::<><><>0<>0<>1e37f54f2d60a585040bc43f2fc6c2cd<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://actors/::1756424123
+player.tscn::PackedScene/PackedScene::7802261547425969348::1755486643::0::1::::<><><>0<>0<><>::uid://qsbb38afxsao::::res://scripts/player.gd<>uid://b3p8qf1inaan::::res://assets/character/Idle (32 x 32).png<>uid://bbg8golpxlnrr::::res://assets/character/Jumping (32 x 32).png<>uid://6v8ispt8x2u3::::res://assets/character/Running (32 x 32).png
+::res://assets/::1756424123
+::res://assets/background/::1756424123
+Extra_plants (16 x 16).png::CompressedTexture2D/CompressedTexture2D::8125224209161281454::1594737126::1749258869::1::::<><><>0<>0<>3d91d5dd31d4400befafc57d2c7e60fd<>res://.godot/imported/Extra_plants (16 x 16).png-fa6df22d8586865db7aba86b0722c8bc.ctex::
+Grassland_entities (16 x 16).png::CompressedTexture2D/CompressedTexture2D::7621943638398562282::1594733800::1749258869::1::::<><><>0<>0<>5ed543d7e27b55c1b596656835cb9520<>res://.godot/imported/Grassland_entities (16 x 16).png-03c71b3eb2d7ab64eb50d0d5a6a824e0.ctex::
+Terrain (16 x 16).png::CompressedTexture2D/CompressedTexture2D::8483666876078426626::1594733362::1749258869::1::::<><><>0<>0<>ce670c72b40fe0946829ef9fa48aec60<>res://.godot/imported/Terrain (16 x 16).png-ea0999c8d72fddff46ce8802e92e7a3a.ctex::
+::res://assets/background/Background parts/::1756424123
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D/CompressedTexture2D::3276035005009966975::1594664978::1749258869::1::::<><><>0<>0<>fe8afdec08c6fdb39f8bc373b1aad266<>res://.godot/imported/_Complete_static_BG_(288 x 208).png-473a2fde16a8fb55aa148b98e887899a.ctex::
+1 - Foreground_scenery.png::CompressedTexture2D/CompressedTexture2D::5284679770777707564::1594664942::1749258869::1::::<><><>0<>0<>c59c4af109b4c0765933f75c041d5818<>res://.godot/imported/1 - Foreground_scenery.png-f17218f69a672c8a5315a9ce4da95dd2.ctex::
+2 - Hills.png::CompressedTexture2D/CompressedTexture2D::391540663953866002::1594664932::1749258869::1::::<><><>0<>0<>4c18e79650caea185b1dc25b570fb6c7<>res://.godot/imported/2 - Hills.png-403eb274c2b367a5c846dea4e4ca45a6.ctex::
+3 - Cloud_cover_1.png::CompressedTexture2D/CompressedTexture2D::7890009904872597376::1594664922::1749258869::1::::<><><>0<>0<>d2ebcb15288102213a4ada51dff7ebdb<>res://.godot/imported/3 - Cloud_cover_1.png-50ae4b091c0d4d931f9a3e26192b13bc.ctex::
+4 - Cloud_cover_2.png::CompressedTexture2D/CompressedTexture2D::3870900351868858478::1594664916::1749258869::1::::<><><>0<>0<>0cd6a520fc9c5a0f65902aaefd8d3350<>res://.godot/imported/4 - Cloud_cover_2.png-e2149552531c6d9268b42c38d9b92ef2.ctex::
+5 - Sky_color.png::CompressedTexture2D/CompressedTexture2D::4984924702125353489::1594664886::1749258869::1::::<><><>0<>0<>73cf0a30a8eb9b36b93704c8c791b509<>res://.godot/imported/5 - Sky_color.png-8c337eb194e5b2ac76002f1f9d1e648a.ctex::
+::res://assets/character/::1756424123
+Hurt (32 x 32).png::CompressedTexture2D/CompressedTexture2D::4029768939626007419::1592406798::1749256080::1::::<><><>0<>0<>da42d39cdaae853f59c64a23bb33b129<>res://.godot/imported/Hurt (32 x 32).png-f9c7d19fcbf0b7ffd91f43adc518f664.ctex::
+Idle (32 x 32).png::CompressedTexture2D/CompressedTexture2D::128961956132211701::1592406664::1749256080::1::::<><><>0<>0<>6f9c0c0f4eaadccabdc814da3a6bb7b1<>res://.godot/imported/Idle (32 x 32).png-f4bdb111177b0480b68ccd7a1bb5ee78.ctex::
+Jumping (32 x 32).png::CompressedTexture2D/CompressedTexture2D::2471010922412680431::1592406882::1749256080::1::::<><><>0<>0<>93f3f9b123afc0d4aff003f17eb10e44<>res://.godot/imported/Jumping (32 x 32).png-441aff23ec3b16726b6ab8d3412c3cdd.ctex::
+Running (32 x 32).png::CompressedTexture2D/CompressedTexture2D::2221225002227468568::1592406746::1749256080::1::::<><><>0<>0<>7b6928ccfd4e10c97092d215d2fa9350<>res://.godot/imported/Running (32 x 32).png-3fb3417768d9583ec4caf092e8b56d3b.ctex::
+::res://levels/::1756424123
+world_01.tscn::PackedScene/PackedScene::6564709965556062030::1755486643::0::1::::<><><>0<>0<><>::uid://ds4s0vua7exlq::::res://assets/background/Terrain (16 x 16).png<>uid://dguekewji1v6i::::res://assets/background/Grassland_entities (16 x 16).png<>uid://djfqdwtpqfbhk::::res://actors/player.tscn
+::res://scripts/::1756424123
+player.gd::GDScript/GDScript::1160244322208221726::1755480168::0::1::::<>CharacterBody2D<><>0<>0<><>::
