@@ -1,4 +1,4 @@
-[gd_scene load_steps=13 format=3 uid="uid://djfqdwtpqfbhk"]
+[gd_scene format=3 uid="uid://djfqdwtpqfbhk"]
 
 [ext_resource type="Script" uid="uid://qsbb38afxsao" path="res://scripts/player.gd" id="1_mvpqy"]
 [ext_resource type="Texture2D" uid="uid://b3p8qf1inaan" path="res://assets/character/Idle (32 x 32).png" id="2_1yqc4"]
@@ -72,26 +72,28 @@ animations = [{
 radius = 6.0
 height = 16.0
 
-[node name="Player" type="CharacterBody2D"]
+[node name="Player" type="CharacterBody2D" unique_id=42335823]
 collision_mask = 2
 script = ExtResource("1_mvpqy")
 
-[node name="Animate" type="AnimatedSprite2D" parent="."]
+[node name="Animate" type="AnimatedSprite2D" parent="." unique_id=692831753]
 position = Vector2(2, -17)
 sprite_frames = SubResource("SpriteFrames_naeyk")
 animation = &"run"
 autoplay = "idle"
 
-[node name="Collision" type="CollisionShape2D" parent="."]
-visible = false
-position = Vector2(2, -10)
+[node name="Collision" type="CollisionShape2D" parent="." unique_id=61883235]
+position = Vector2(2, -11)
 shape = SubResource("CapsuleShape2D_o58wf")
 
-[node name="Camera" type="Camera2D" parent="."]
-visible = false
-limit_left = 0
-limit_smoothed = true
-drag_horizontal_enabled = true
-drag_right_margin = 0.05
+[node name="Animator" type="AnimationPlayer" parent="." unique_id=1128895708]
 
-[node name="Animator" type="AnimationPlayer" parent="."]
+[node name="Camera" type="Camera2D" parent="." unique_id=197350439]
+zoom = Vector2(1.2, 1.2)
+limit_left = 0
+limit_top = -497
+limit_right = 674
+limit_bottom = 303
+drag_horizontal_enabled = true
+drag_left_margin = 0.0
+drag_right_margin = 0.0

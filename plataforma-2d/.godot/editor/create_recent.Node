@@ -1,6 +1,6 @@
-AnimationPlayer
 Camera2D
 TileMapLayer
+AnimationPlayer
 Node2D
 TileMap
 CollisionShape2D
