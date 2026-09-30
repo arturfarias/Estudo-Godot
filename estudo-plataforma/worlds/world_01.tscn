@@ -1,0 +1,44 @@
+[gd_scene format=3 uid="uid://bda3tmgwrs411"]
+
+[ext_resource type="Texture2D" uid="uid://bjj7v8dxequna" path="res://asserts/player/idle/f-01.png" id="1_evafo"]
+[ext_resource type="Texture2D" uid="uid://d2sf4fj82nwmr" path="res://asserts/player/idle/f-02.png" id="2_rhxt1"]
+[ext_resource type="Texture2D" uid="uid://d2y5gonswo4tf" path="res://asserts/player/idle/f-03.png" id="3_52na4"]
+[ext_resource type="Texture2D" uid="uid://7yf8cun72m40" path="res://asserts/player/idle/f-04.png" id="4_ofqwq"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_yf5fn"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_evafo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_rhxt1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_52na4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_ofqwq")
+}],
+"loop": 1,
+"name": &"idle",
+"speed": 5.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_g4v7s"]
+radius = 7.0
+height = 22.0
+
+[node name="Node2D" type="Node2D" unique_id=1182158763]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=658794302]
+texture_filter = 1
+position = Vector2(117, 60)
+sprite_frames = SubResource("SpriteFrames_yf5fn")
+animation = &"idle"
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="AnimatedSprite2D" unique_id=944529212]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AnimatedSprite2D/CharacterBody2D" unique_id=846597023]
+position = Vector2(-1, 5)
+shape = SubResource("CapsuleShape2D_g4v7s")

@@ -1,0 +1,15 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1790777894
+icon.svg::CompressedTexture2D::861431317997441250::1790690406::1790690415::1::::<><><>0<>0<>497c26c7087e8982bf74cc67af1434b3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+node_2d.tscn::PackedScene::875706413729238514::1790696071::0::1::::<><><>0<>0<><>::uid://mjjwbbb5ay3k::::res://icon.svg
+::res://asserts/::1790777990
+::res://asserts/characters/::1790777946
+::res://asserts/environments/::1790779248
+back.png::CompressedTexture2D::6042716234746056534::1790777639::1790779258::1::::<><><>0<>0<>73e99092cfb9af42d995c8d67a471520<>res://.godot/imported/back.png-8cfee156f8430d4fc6ee968b2bc56588.ctex::
+::res://asserts/misc/::1790777972
+::res://asserts/player/::1790778223
+::res://asserts/player/idle/::1790778227
+f-01.png::CompressedTexture2D::3038681860618440682::1790777640::1790778227::1::::<><><>0<>0<>13b6b3c09da4c1d9b1bd08ae23ceef29<>res://.godot/imported/f-01.png-e5426a48537983b4e94b0b96372c5aeb.ctex::
+f-02.png::CompressedTexture2D::9091875279922305145::1790777640::1790778227::1::::<><><>0<>0<>1bbe6e1e55e92d23a9a7483d2554409a<>res://.godot/imported/f-02.png-7bfc404d779919ff37aadbb53cc6e3e4.ctex::
+f-03.png::CompressedTexture2D::9105738876207216335::1790777640::1790778227::1::::<><><>0<>0<>f147cd3ab5cc36300039f211288f5a51<>res://.godot/imported/f-03.png-34fc8e3950935e294f151ff630a422c2.ctex::
+f-04.png::CompressedTexture2D::2295950715254452763::1790777640::1790778227::1::::<><><>0<>0<>b96d3b70c6ca5004cc64834e65684380<>res://.godot/imported/f-04.png-b2f6c60e4fa46a7d23999c3efa479498.ctex::
